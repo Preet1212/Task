@@ -1,0 +1,14 @@
+p{
+    color: white;
+    background-color: rgba(0, 102, 255, 0.844);"
+}
+
+.bgRound{
+    border-radius: 123px;
+    background: rgba(237, 228, 228, 0.896);
+    height: 5px;
+    width: 45px;
+    padding: 8px;
+    padding-bottom: 9px ;
+    /* style="border: 3px solid rgb(187, 186, 186); border-radius: 123px; block-size: auto;" */
+}
